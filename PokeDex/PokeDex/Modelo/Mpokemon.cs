@@ -4,9 +4,10 @@ using System.Text;
 
 namespace PokeDex.Modelo
 {
-    internal class Mpokemon
+    public class Mpokemon
     {
         public string Colorfondo {get;set;}
+        public string ColorPoder {get;set;}
         public string Icono {get;set;}
         public string Nombre { get; set; }
         public string NroOrden { get; set; }

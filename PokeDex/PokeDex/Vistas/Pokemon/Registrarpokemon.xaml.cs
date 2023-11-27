@@ -8,6 +8,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using PokeDex.VistaModelo.VMpokemon;
 
+
 namespace PokeDex.Vistas.Pokemon
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
